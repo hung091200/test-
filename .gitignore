@@ -1,0 +1,25 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Ll]ogs/
+
+# Visual Studio Code
+.vscode/
+
+# Others
+*.dbmdl
+*.jfm
+*.pdb
+*.cache
+*.log
+*.vsidx
+
+# Dependency lock files
+project.lock.json
+project.fragment.lock.json

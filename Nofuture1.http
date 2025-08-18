@@ -1,0 +1,10 @@
+@Nofuture1_HostAddress = https://localhost:7281
+
+GET {{Nofuture1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{Nofuture1_HostAddress}}/weatherforecast
+
+###
